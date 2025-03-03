@@ -1,0 +1,26 @@
+feature,importance,type_OS,type_MN
+NP3BRADY,0.3036252,Objective,Motor
+NP3PSTBL,0.12155249,Objective,Motor
+NP2TRMR,0.06119374,Self Report,Motor
+NP3RTCON,0.051133763,Objective,Motor
+DYSKPRES,0.049741685,Objective,Motor
+NP3FACXP,0.038980465,Objective,Motor
+NP3PRSPL,0.021059606,Objective,Motor
+NP3PRSPR,0.0207746,Objective,Motor
+NP3RIGRL,0.019178413,Objective,Motor
+NP3TTAPR,0.019149184,Objective,Motor
+NP3RIGLU,0.018351238,Objective,Motor
+NP2DRES,0.017876009,Self Report,Motor
+NP3RIGLL,0.016399657,Objective,Motor
+NP3RIGRU,0.014348203,Objective,Motor
+NP3FTAPR,0.01304535,Objective,Motor
+NP2HWRT,0.012117173,Self Report,Motor
+NP3TTAPL,0.011507369,Objective,Motor
+NP3GAIT,0.010733603,Objective,Motor
+NP3RIGN,0.010503438,Objective,Motor
+NP3HMOVL,0.009093595,Objective,Motor
+NP3FTAPL,0.008840196,Objective,Motor
+NP3KTRMR,0.008816693,Objective,Motor
+NP2WALK,0.00873199,Self Report,Motor
+NP3HMOVR,0.007932645,Objective,Motor
+NP3RTALU,0.00777122,Objective,Motor

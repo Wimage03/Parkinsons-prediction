@@ -1,0 +1,77 @@
+feature,type_OS,type_MN,frequency,source
+SCAU7,Self Report,Non Motor,3,"LDA, LR, SVM"
+FNCDTCOG,Self Report,Non Motor,3,"LDA, LR, SVM"
+SCAU26C,Self Report,Non Motor,3,"LDA, LR, SVM"
+NP3RISNG,Objective,Motor,3,"LDA, LR, RF"
+NP3KTRMR,Objective,Motor,3,"LDA, LR, XGBoost"
+NP3KTRML,Objective,Motor,3,"LDA, LR, SVM"
+SLPINJUR,Self Report,Non Motor,3,"LDA, LR, SVM"
+NP3TTAPR,Objective,Motor,2,"RF, XGBoost"
+NP3RIGRU,Objective,Motor,2,"RF, XGBoost"
+NP3RIGLU,Objective,Motor,2,"RF, XGBoost"
+NP3GAIT,Objective,Motor,2,"RF, XGBoost"
+NP3PRSPL,Objective,Motor,2,"RF, XGBoost"
+NP3FTAPR,Objective,Motor,2,"RF, XGBoost"
+NP3PRSPR,Objective,Motor,2,"RF, XGBoost"
+NP3HMOVR,Objective,Motor,2,"RF, XGBoost"
+NP2HWRT,Self Report,Motor,2,"RF, XGBoost"
+NP3RIGN,Objective,Motor,2,"RF, XGBoost"
+NP3FTAPL,Objective,Motor,2,"RF, XGBoost"
+NP3PSTBL,Objective,Motor,2,"RF, XGBoost"
+NP2WALK,Self Report,Motor,2,"RF, XGBoost"
+NP3TTAPL,Objective,Motor,2,"RF, XGBoost"
+NP3HMOVL,Objective,Motor,2,"RF, XGBoost"
+NP3RIGRL,Objective,Motor,2,"RF, XGBoost"
+NP2DRES,Self Report,Motor,2,"RF, XGBoost"
+NP1ANXS,Self Report,Non Motor,2,"LR, SVM"
+NP1COG,Self Report,Non Motor,2,"LR, SVM"
+NP1LTHD,Self Report,Non Motor,2,"LR, SVM"
+NP3PTRMR,Objective,Motor,2,"LR, SVM"
+NP3RTCON,Objective,Motor,2,"RF, XGBoost"
+NP2TRMR,Self Report,Motor,2,"RF, XGBoost"
+NP1APAT,Self Report,Non Motor,2,"LR, SVM"
+GDSSATIS,Self Report,Non Motor,2,"LDA, SVM"
+COGDXCL,Self Report,Non Motor,2,"LDA, LR"
+SCAU13,Self Report,Non Motor,2,"LDA, LR"
+NP3FACXP,Objective,Motor,2,"RF, XGBoost"
+STAIAD7,Self Report,Non Motor,2,"LR, SVM"
+NP3RIGLL,Objective,Motor,2,"LDA, XGBoost"
+NP2RISE,Self Report,Motor,2,"LR, SVM"
+LNS1B,Objective,Non Motor,2,"LDA, SVM"
+SCAU5,Self Report,Non Motor,2,"LR, SVM"
+NP3BRADY,Objective,Motor,2,"RF, XGBoost"
+MSEADLG,Self Report,Non Motor,2,"LR, RF"
+GDSHAPPY,Self Report,Non Motor,1,SVM
+LNS2B,Objective,Non Motor,1,SVM
+STAIAD32,Self Report,Non Motor,1,SVM
+STAIAD38,Self Report,Non Motor,1,SVM
+SCAU10,Self Report,Non Motor,1,LR
+HVLTRT3,Objective,Non Motor,1,LR
+STAIAD2,Self Report,Non Motor,1,SVM
+MCACAMEL,Objective,Non Motor,1,LR
+STAIAD40,Self Report,Non Motor,1,LR
+DRMNOCTB,Self Report,Non Motor,1,SVM
+TMTRWD,Self Report,Non Motor,1,SVM
+HVLTFPUN,Objective,Non Motor,1,LR
+CNTRLGMB,Self Report,Non Motor,1,SVM
+NP1SLPD,Self Report,Non Motor,1,SVM
+CNTRLBUY,Self Report,Non Motor,1,LDA
+NP3POSTR,Objective,Motor,1,LR
+NP2FREZ,Self Report,Motor,1,LDA
+MCAYR,Objective,Non Motor,1,LDA
+DRMOBJFL,Self Report,Non Motor,1,LDA
+NP3FRZGT,Objective,Motor,1,LDA
+NP2EAT,Self Report,Motor,1,LDA
+NP3RTALJ,Objective,Motor,1,LDA
+GDSHOME,Self Report,Non Motor,1,LDA
+GDSDROPD,Self Report,Non Motor,1,LDA
+GDSENRGY,Self Report,Non Motor,1,LDA
+NP1PAIN,Self Report,Non Motor,1,LR
+MCAVF,Objective,Non Motor,1,LDA
+LNS1A,Objective,Non Motor,1,LDA
+TMGAMBLE,Self Report,Non Motor,1,LDA
+NP3SPCH,Objective,Motor,1,RF
+NP3RTARU,Objective,Motor,1,RF
+DYSKPRES,Objective,Motor,1,XGBoost
+NP3RTALU,Objective,Motor,1,XGBoost
+GDSWRTLS,Self Report,Non Motor,1,SVM

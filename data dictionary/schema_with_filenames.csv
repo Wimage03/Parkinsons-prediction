@@ -1,0 +1,222 @@
+ITM_NAME,DSCR,TYPE,FILE_NAME
+NP1COG,COGNITIVE IMPAIRMENT,Self Report,MDS-UPDRS_Part_I_24May2024.csv
+NP1HALL,HALLUCINATIONS AND PSYCHOSIS,Self Report,MDS-UPDRS_Part_I_24May2024.csv
+NP1DPRS,DEPRESSED MOODS,Self Report,MDS-UPDRS_Part_I_24May2024.csv
+NP1ANXS,ANXIOUS MOOD,Self Report,MDS-UPDRS_Part_I_24May2024.csv
+NP1APAT,APATHY,Self Report,MDS-UPDRS_Part_I_24May2024.csv
+NP1DDS,FEATURES-DOPAMINE DYSREGULATION SYNDROME,Self Report,MDS-UPDRS_Part_I_24May2024.csv
+NP1SLPN,SLEEP PROBLEMS (NIGHT),Self Report,MDS-UPDRS_Part_I_Patient_Questionnaire_24May2024.csv
+NP1SLPD,DAYTIME SLEEPINESS,Self Report,MDS-UPDRS_Part_I_Patient_Questionnaire_24May2024.csv
+NP1PAIN,PAIN AND OTHER SENSATIONS,Self Report,MDS-UPDRS_Part_I_Patient_Questionnaire_24May2024.csv
+NP1URIN,URINARY PROBLEMS,Self Report,MDS-UPDRS_Part_I_Patient_Questionnaire_24May2024.csv
+NP1CNST,CONSTIPATION PROBLEMS,Self Report,MDS-UPDRS_Part_I_Patient_Questionnaire_24May2024.csv
+NP1LTHD,LIGHTHEADEDNESS ON STANDING,Self Report,MDS-UPDRS_Part_I_Patient_Questionnaire_24May2024.csv
+NP1FATG,FATIGUE,Self Report,MDS-UPDRS_Part_I_Patient_Questionnaire_24May2024.csv
+NP2SPCH,SPEECH,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2SALV,SALIVA + DROOLING,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2SWAL,CHEWING AND SWALLOWING,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2EAT,EATING TASKS,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2DRES,DRESSING,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2HYGN,HYGIENE,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2HWRT,HANDWRITING,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2HOBB,DOING HOBBIES AND OTHER ACTIVITIES,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2TURN,TURNING IN BED,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2TRMR,TREMOR,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2RISE,"GETTING OUT OF BED, CAR, OR DEEP CHAIR",Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2WALK,WALKING AND BALANCE,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP2FREZ,FREEZING,Self Report,MDS_UPDRS_Part_II__Patient_Questionnaire_24May2024.csv
+NP3SPCH,3.1 Speech,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3FACXP,3.2 Facial expression,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RIGN,3.3a Rigidity - Neck,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RIGRU,3.3b Rigidity - RUE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RIGLU,3.3c Rigidity - LUE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RIGRL,3.3d Rigidity - RLE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RIGLL,3.3e Rigidity - LLE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3FTAPR,3.4a Finger Tapping Right Hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3FTAPL,3.4b Finger Tapping Left Hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3HMOVR,3.5a Hand movements - Right Hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3HMOVL,3.5b Hand movements - Left Hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3PRSPR,3.6a Pronation-Supination - Right Hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3PRSPL,3.6b Pronation-Supination - Left Hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3TTAPR,3.7a Toe tapping - Right foot,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3TTAPL,3.7b Toe tapping - Left foot,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3LGAGR,3.8a Leg agility - Right leg,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3LGAGL,3.8b Leg agility - Left leg,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RISNG,3.9 Arising from chair,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3GAIT,3.10 Gait,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3FRZGT,3.11 Freezing of gait,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3PSTBL,3.12 Postural stability,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3POSTR,3.13 Posture,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3BRADY,3.14 Global spontaneity of movement,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3PTRMR,3.15a Postural tremor - Right Hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3PTRML,3.15b Postural tremor - Left hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3KTRMR,3.16a Kinetic tremor - Right hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3KTRML,3.16b Kinetic tremor - Left hand,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RTARU,3.17a Rest tremor amplitude - RUE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RTALU,3.17b Rest tremor amplitude - LUE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RTARL,3.17c Rest tremor amplitude - RLE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RTALL,3.17d Rest tremor amplitude - LLE,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RTALJ,3.17e Rest tremor amplitude - Lip/jaw,Motor,MDS-UPDRS_Part_III_24May2024.csv
+NP3RTCON,3.18 Constancy of rest tremor,Motor,MDS-UPDRS_Part_III_24May2024.csv
+DYSKPRES,3.19 Were dyskinesias present,Motor,MDS-UPDRS_Part_III_24May2024.csv
+MSEADLG,Modified Schwab and England - Overall,Motor,Modified_Schwab___England_Activities_of_Daily_Living_24May2024.csv
+BENTONVERSION,Benton Judgment of Line Orientation Version Used,Non Motor,Benton_Judgement_of_Line_Orientation_24May2024.csv
+COGDECLN,Experienced cognitive decline,Non Motor,Cognitive_Categorization_24May2024.csv
+FNCDTCOG,Functional impairment due to cognitive,Non Motor,Cognitive_Categorization_24May2024.csv
+COGSTATE,Cognitive State,Non Motor,Cognitive_Categorization_24May2024.csv
+COGDXCL,Level of confidence cognitive diagnosis,Non Motor,Cognitive_Categorization_24May2024.csv
+ESS1,Sitting and reading,Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+ESS2,Watching TV,Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+ESS3,"Sitting, inactive in a public place",Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+ESS4,As a passenger in a car for an hour,Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+ESS5,Lying down to rest in the afternoon,Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+ESS6,Sitting and talking to someone,Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+ESS7,Sitting quietly after lunch,Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+ESS8,"In a car, while stopped in traffic",Non Motor,Epworth_Sleepiness_Scale_24May2024.csv
+GDSSATIS,Basically satisfied with your life?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSDROPD,Dropped many activities and interests?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSEMPTY,Feel that your life is empty?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSBORED,Often get bored?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSGSPIR,In good spirits most of the time?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSAFRAD,Afraid something bad will happen to you?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSHAPPY,Feel happy most of the time,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSHLPLS,Often feel helpless?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSHOME,Prefer to stay at home?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSMEMRY,More problems with memory than most?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSALIVE,Wonderful to be alive now?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSWRTLS,Feel pretty worthless the way you are?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSENRGY,Feel full of energy?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSHOPLS,Feel that your situation is hopeless?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+GDSBETER,Most people are better off than you are?,Self Report,Geriatric_Depression_Scale__Short_Version__24May2024.csv
+HVLTRT1,Immediate Recall Trial 1,Non Motor,Hopkins_Verbal_Learning_Test_-_Revised_24May2024.csv
+HVLTRT2,Immediate Recall Trial 2,Non Motor,Hopkins_Verbal_Learning_Test_-_Revised_24May2024.csv
+HVLTRT3,Immediate Recall Trial 3,Non Motor,Hopkins_Verbal_Learning_Test_-_Revised_24May2024.csv
+HVLTRDLY,Delayed Recall Trial 4,Non Motor,Hopkins_Verbal_Learning_Test_-_Revised_24May2024.csv
+HVLTREC,Delayed Recognition - Total # true positives,Non Motor,Hopkins_Verbal_Learning_Test_-_Revised_24May2024.csv
+HVLTFPRL,"Delayed Recognition - Total # false positives, related",Non Motor,Hopkins_Verbal_Learning_Test_-_Revised_24May2024.csv
+HVLTFPUN,"Delayed Recognition - Total # false positives, unrelated",Non Motor,Hopkins_Verbal_Learning_Test_-_Revised_24May2024.csv
+LNS1A,Trial 1a,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS1B,Trial 1b,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS1C,Trial 1c,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS2A,Trial 2a,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS2B,Trial 2b,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS2C,Trial 2c,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS3A,Trial 3a,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS3B,Trial 3b,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+LNS3C,Trial 3c,Non Motor,Letter_-_Number_Sequencing_24May2024.csv
+VLTANIM,Total Number of animals,Non Motor,Modified_Semantic_Fluency_24May2024.csv
+MCAALTTM,Alternating Trail Making,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCACUBE,Visuoconstructional Skills (Cube),Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCACLCKC,Visuoconstructional Skills (Clock Cont),Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCACLCKN,Visuoconstructional Skills (Clock Num),Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCACLCKH,Visuoconstructional Skills (Clock Hands),Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCALION,Naming - Lion,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCARHINO,Naming - Rhino,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCACAMEL,Naming - Camel,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAFDS,Attention - Forward Digit Span,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCABDS,Attention - Backward Digit Span,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAVIGIL,Attention - Vigilance,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCASER7,Attention - Serial 7s,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCASNTNC,Sentence Repetition,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAVFNUM,Verbal Fluency - Number of words,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAVF,Verbal Fluency,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAABSTR,Abstraction,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAREC1,Delayed Recall - Face,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAREC2,Delayed Recall - Velvet,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAREC3,Delayed Recall - Church,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAREC4,Delayed Recall - Daisy,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAREC5,Delayed Recall - Red,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCADATE,Orientation - Date,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAMONTH,Orientation - Month,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAYR,Orientation - Year,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCADAY,Orientation - Day,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCAPLACE,Orientation - Place,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+MCACITY,Orientation - City,Non Motor,Montreal_Cognitive_Assessment__MoCA__24May2024.csv
+TMGAMBLE,Gambling 1,Self Report,QUIP-Current-Short_24May2024.csv
+CNTRLGMB,Gambling 2,Self Report,QUIP-Current-Short_24May2024.csv
+TMSEX,Sex 1,Self Report,QUIP-Current-Short_24May2024.csv
+CNTRLSEX,Sex 2,Self Report,QUIP-Current-Short_24May2024.csv
+TMBUY,Buying 1,Self Report,QUIP-Current-Short_24May2024.csv
+CNTRLBUY,Buying 2,Self Report,QUIP-Current-Short_24May2024.csv
+TMEAT,Eating 1,Self Report,QUIP-Current-Short_24May2024.csv
+CNTRLEAT,Eating 2,Self Report,QUIP-Current-Short_24May2024.csv
+TMTORACT,Other 1,Self Report,QUIP-Current-Short_24May2024.csv
+TMTMTACT,Other 2,Self Report,QUIP-Current-Short_24May2024.csv
+TMTRWD,Other 3,Self Report,QUIP-Current-Short_24May2024.csv
+DRMVIVID,Vivid Dreams,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+DRMAGRAC,Aggressive or Action-packed dreams,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+DRMNOCTB,nocturnal behaviour,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+SLPLMBMV,move arms/legs during sleep,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+SLPINJUR,hurt bed partner,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+DRMVERBL,speaking in sleep,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+DRMFIGHT,sudden limb movements,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+DRMUMV,complex movements,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+DRMOBJFL,things fell down,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+MVAWAKEN,my movements awake me,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+DRMREMEM,remember dreams,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+SLPDSTRB,sleep is disturbed,Non Motor,REM_Sleep_Behavior_Disorder_Questionnaire_24May2024.csv
+SCAU1,SCOPA Item 1,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU2,SCOPA Item 2,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU3,SCOPA Item 3,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU4,SCOPA Item 4,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU5,SCOPA Item 5,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU6,SCOPA Item 6,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU7,SCOPA Item 7,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU8,SCOPA Item 8,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU9,SCOPA Item 9,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU10,SCOPA Item 10,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU11,SCOPA Item 11,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU12,SCOPA Item 12,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU13,SCOPA Item 13,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU14,SCOPA Item 14,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU15,SCOPA Item 15,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU16,SCOPA Item 16,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU17,SCOPA Item 17,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU18,SCOPA Item 18,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU19,SCOPA Item 19,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU20,SCOPA Item 20,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU21,SCOPA Item 21,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU26A,SCOPA Item 26a,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU26B,SCOPA Item 26b,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU26C,SCOPA Item 26c,Non Motor,SCOPA-AUT_24May2024.csv
+SCAU26D,SCOPA Item 26d,Non Motor,SCOPA-AUT_24May2024.csv
+STAIAD1,STAI Question 1,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD2,STAI Question 2,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD3,STAI Question 3,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD4,STAI Question 4,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD5,STAI Question 5,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD6,STAI Question 6,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD7,STAI Question 7,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD8,STAI Question 8,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD9,STAI Question 9,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD10,STAI Question 10,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD11,STAI Question 11,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD12,STAI Question 12,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD13,STAI Question 13,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD14,STAI Question 14,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD15,STAI Question 15,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD16,STAI Question 16,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD17,STAI Question 17,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD18,STAI Question 18,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD19,STAI Question 19,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD20,STAI Question 20,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD21,STAI Question 21,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD22,STAI Question 22,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD23,STAI Question 23,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD24,STAI Question 24,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD25,STAI Question 25,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD26,STAI Question 26,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD27,STAI Question 27,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD28,STAI Question 28,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD29,STAI Question 29,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD30,STAI Question 30,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD31,STAI Question 31,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD32,STAI Question 32,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD33,STAI Question 33,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD34,STAI Question 34,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD35,STAI Question 35,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD36,STAI Question 36,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD37,STAI Question 37,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD38,STAI Question 38,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD39,STAI Question 39,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
+STAIAD40,STAI Question 40,Self Report,State-Trait_Anxiety_Inventory_24May2024.csv
